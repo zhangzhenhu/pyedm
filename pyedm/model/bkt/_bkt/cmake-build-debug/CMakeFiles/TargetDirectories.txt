@@ -1,0 +1,3 @@
+/Users/zhangzhenhu/Documents/projects/talirt/pyedm/model/bkt/_bkt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhangzhenhu/Documents/projects/talirt/pyedm/model/bkt/_bkt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangzhenhu/Documents/projects/talirt/pyedm/model/bkt/_bkt/cmake-build-debug/CMakeFiles/bkt.dir

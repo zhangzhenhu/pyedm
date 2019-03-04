@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/bkt.dir/hmm.cpp.o CMakeFiles/bkt.dir/man.cpp.o CMakeFiles/bkt.dir/bkt.cpp.o CMakeFiles/bkt.dir/TrainHelper.cpp.o  -o bkt  -L/usr/local/Cellar/gsl/2.5/lib -Wl,-rpath,/usr/local/Cellar/gsl/2.5/lib -lgsl -lgslcblas -lm 

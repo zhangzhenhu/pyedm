@@ -1,0 +1,7 @@
+scikit-learn
+pymc3
+scipy
+numpy
+pandas
+CythonGSL
+numexpr
